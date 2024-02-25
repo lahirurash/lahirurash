@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lahiru Lekamge
-- 👀 I’m interested in Front End develop 
-- 🌱 I’m currently learning in Python 
+- 👀 I’m interested in Front End develop amd Python/ Java 
+- 🌱 I’m currently learning in University
 - 💞️ I’m looking to collaborate on HTML/React (Front End developing) projects
 - 📫 Reach me on LinkedIN https://www.linkedin.com/in/lahiru-lekamge-b7117a253/
 
